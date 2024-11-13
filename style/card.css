@@ -1,0 +1,26 @@
+.card--photo {
+    width: 290px;
+}
+
+.card--type {
+    margin-top: 5px;
+    width: 171px;
+    font-size: 12px;
+    line-height: 24px;
+    display: block;
+    color: #A5A3B9;
+    text-transform: uppercase;
+}
+
+.card--name {
+    margin: 5px 0px;
+    width: 220px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.card--description {
+    width: 287px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,12 @@
+.button--buy {
+    background-color: #515076;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.button-green {
+    background-color: #2edd71;
+}

@@ -1,0 +1,9 @@
+.container {
+    background-image: url(../img/bg_1.png);
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding-top: 220px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
